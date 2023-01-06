@@ -1,4 +1,4 @@
-# Demo video segmentation with in-browser-ai (with CRA)
+# Demo video segmentation with in-browser-ai
 
 https://www.npmjs.com/package/in-browser-ai
 
