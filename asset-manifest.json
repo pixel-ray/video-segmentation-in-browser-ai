@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/video-segmentation-in-browser-ai/static/css/main.35b235d5.chunk.css",
+    "main.js": "/video-segmentation-in-browser-ai/static/js/main.ede11388.chunk.js",
+    "main.js.map": "/video-segmentation-in-browser-ai/static/js/main.ede11388.chunk.js.map",
+    "runtime-main.js": "/video-segmentation-in-browser-ai/static/js/runtime-main.785eac68.js",
+    "runtime-main.js.map": "/video-segmentation-in-browser-ai/static/js/runtime-main.785eac68.js.map",
+    "static/js/2.a9aba842.chunk.js": "/video-segmentation-in-browser-ai/static/js/2.a9aba842.chunk.js",
+    "static/js/2.a9aba842.chunk.js.map": "/video-segmentation-in-browser-ai/static/js/2.a9aba842.chunk.js.map",
+    "static/js/3.22618d17.chunk.js": "/video-segmentation-in-browser-ai/static/js/3.22618d17.chunk.js",
+    "static/js/3.22618d17.chunk.js.map": "/video-segmentation-in-browser-ai/static/js/3.22618d17.chunk.js.map",
+    "index.html": "/video-segmentation-in-browser-ai/index.html",
+    "static/css/main.35b235d5.chunk.css.map": "/video-segmentation-in-browser-ai/static/css/main.35b235d5.chunk.css.map",
+    "static/js/2.a9aba842.chunk.js.LICENSE.txt": "/video-segmentation-in-browser-ai/static/js/2.a9aba842.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.785eac68.js",
+    "static/js/2.a9aba842.chunk.js",
+    "static/css/main.35b235d5.chunk.css",
+    "static/js/main.ede11388.chunk.js"
+  ]
+}
